@@ -1,0 +1,6 @@
+ Lab03: man-strncpy
+===================
+
+   strcpy() is unsafe and strncpy() is safe? Try "man strncpy"
+   and read it carefully.
+
